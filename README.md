@@ -10,3 +10,7 @@ Evaluación 02 - Lenguaje de Programación II - Sección T4AO - Tema 3: Git y Gi
 
 ## Control de cambios
 En esta sección se practicó el manejo del Working Directory, el Staging Area y el repositorio local.
+
+## Gestión de ramas
+Rama utilizada: feature-ramirez
+Cambio realizado: se creó la clase ControlVersion_Ramirez.java que muestra un mensaje en consola.
