@@ -7,3 +7,6 @@
 
 ## Evidencia T2
 Evaluación 02 - Lenguaje de Programación II - Sección T4AO - Tema 3: Git y GitHub.
+
+## Control de cambios
+En esta sección se practicó el manejo del Working Directory, el Staging Area y el repositorio local.
